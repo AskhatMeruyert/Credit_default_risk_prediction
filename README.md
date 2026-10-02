@@ -1,5 +1,7 @@
 # 💳 Credit Default Risk Prediction
+### 🚀 Live Demo
 
+[Open the Streamlit application](https://creditdefaultriskprediction-rm9o7ylhdgrggsn7eesw2v.streamlit.app/)
 An end-to-end machine learning project for predicting the probability of serious financial delinquency using client financial and credit history data.
 
 The project covers the complete ML workflow: exploratory data analysis, data preprocessing, feature engineering, model comparison, threshold optimization, model interpretation, error analysis, and deployment through an interactive Streamlit application.
